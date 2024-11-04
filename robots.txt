@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ajisuamu.github.io/aqP/sitemap_index.txt
+Sitemap: https://ajisuamu.github.io/gMx/sitemap_index.txt
+Sitemap: https://ajisuamu.github.io/jmv/sitemap_index.txt
+Sitemap: https://ajisuamu.github.io/qUS/sitemap_index.txt
